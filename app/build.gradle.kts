@@ -8,7 +8,7 @@ android {
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.linhvng.app"
+        applicationId = "com.linhvng.happybirthday"
         minSdk = 31
         targetSdk = 34
         versionCode = 1
